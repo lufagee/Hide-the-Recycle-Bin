@@ -2,7 +2,7 @@
 
 
 ### Overview
-- How to hide the Desktop Recycle Bin on Windows 11 Pro with GIF tutorials!
+- How to hide the Desktop Recycle Bin on Windows 11 Pro
   
 
 <details>
@@ -46,14 +46,14 @@
 Use shortcut <b>windows key + R</b> and enter → <b>gpedit.msc</b> to access the <b>Local Group Policy Editor</b>: 
 <br/>
 <br/>
-<img src=".gif\RecycleBin\gpedit_removeRecyclebin.gif" height="60%" width="60%" alt="Local GP Editor"/>
+<img src="gifs/gpedit_removeRecyclebin.gif" height="60%" width="60%" alt="Local GP Editor"/>
 <br/><a id="gif2"></a><br/>
 Navigate to, and enable, the <b>Remove Recycle Bin icon from desktop</b> setting, and restart your device.
 <br/>
 <br/>
 <br/>
 
-<img src=".gif\RecycleBin\NoRecyclebinResult.gif" height="60%" width="60%" alt="Recycle Bin GONE"/>
+<img src="gifs/NoRecyclebinResult.gif" height="60%" width="60%" alt="Recycle Bin GONE"/>
 <br/>
 
 </p>
